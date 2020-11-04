@@ -9,3 +9,5 @@ import 'package:flutter_wxlftp/flutter_wxlftp.dart';
 
 //第一次参数 几张图片 第二个参数朋友圈文字
  FlutterWxlftp.flutterWxlftpbegin(8,“你好flutterWxlftp”);
+
+作者微信：SunSelectMan 邮箱：18570740519@163.com
