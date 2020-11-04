@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">xiaoliHelloword</string>
+    <string name="app_baidu">https://www.baidu.com</string>
+    <string name="accessibility_tip">奢库微信自动化工具</string>
+</resources>

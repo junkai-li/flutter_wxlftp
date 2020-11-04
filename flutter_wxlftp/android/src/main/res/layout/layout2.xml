@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:gravity="center"
+            android:background="@color/colorPrimary"
+            android:text="你好啊"
+            android:textColor="@color/colorAccent"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+
+            android:background="@drawable/ic_launcher_background"
+            android:gravity="center"
+            android:text="htpps://www.baidu.com"
+            android:autoLink="web"
+
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:width="100dp"
+            android:layout_weight="1"
+            android:background="#4594EC"
+            android:gravity="center"
+            android:text="@string/app_baidu"
+
+            android:textSize="30sp" />
+    </LinearLayout>
+
+</LinearLayout>

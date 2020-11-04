@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62430e7e-bff2-45ab-ab34-bdd19d452db0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jioErcaR2ATNzMTH4eq4Tj4E4U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="E:/AndroidStudioProjects/Helloword/app" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62430e7e-bff2-45ab-ab34-bdd19d452db0" name="Default Changelist" comment="" />
+      <created>1604296164486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604296164486</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2377" y="163" width="1092" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604309012642">
+      <screen x="1920" y="9" width="1920" height="1040" />
+    </state>
+    <state x="2377" y="163" width="1092" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.9.1920.1040@1920.9.1920.1040" timestamp="1604309012642" />
+    <state x="2726" y="418" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1604309280490">
+      <screen x="1920" y="9" width="1920" height="1040" />
+    </state>
+    <state x="2726" y="418" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.9.1920.1040@1920.9.1920.1040" timestamp="1604309280490" />
+    <state x="2660" y="284" key="FileChooserDialogImpl" timestamp="1604314152354">
+      <screen x="1920" y="9" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="284" key="FileChooserDialogImpl/0.0.1920.1040/1920.9.1920.1040@1920.9.1920.1040" timestamp="1604314152354" />
+  </component>
+</project>
